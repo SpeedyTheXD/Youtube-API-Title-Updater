@@ -11,7 +11,9 @@ This program auto-updates your Youtube's video title
 5. Check if it works or not!
 6. You can modify the change_video_tile() function to whatever suits your use. Have fun!
 
+
    *P/s: You can schedule your code to be run daily by using task scheduler in Windows or host it on a cloud website (I used PythonAnywhere)*
+
 
 ## How to obtain client_secret.json and token.json
 
@@ -35,11 +37,9 @@ This program auto-updates your Youtube's video title
 
 ## My demo video:
 
-<div style="text-align:center;">
-  <a href="https://www.youtube.com/watch?v=cQadDqgcadA">
-    <img src="https://img.youtube.com/vi/cQadDqgcadA/0.jpg" alt="Watch the demo" style="border-radius: 15px;"  />
-  </a>
-</div>
+[![Watch the video](https://img.youtube.com/vi/cQadDqgcadA/maxresdefault.jpg)](https://youtu.be/cQadDqgcadA)
+
+### [Watch this video](https://youtu.be/cQadDqgcadA)
 
 
 
