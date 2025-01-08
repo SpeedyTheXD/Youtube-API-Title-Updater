@@ -31,11 +31,17 @@ This program auto-updates your Youtube's video title
 
        **If your token.json file doesn't work, you might have to manually add this line to your token.json file:**
 
-           *"type": "authorized_user",*
+           "type": "authorized_user",
 
-## My video demo:
+## My demo video:
 
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=cQadDqgcadA)
+<div style="text-align:center;">
+  <a href="https://www.youtube.com/watch?v=cQadDqgcadA">
+    <img src="https://img.youtube.com/vi/cQadDqgcadA/0.jpg" alt="Watch the demo" style="border-radius: 15px;"  />
+  </a>
+</div>
+
+
 
 
 
