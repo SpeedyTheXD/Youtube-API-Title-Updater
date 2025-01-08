@@ -6,13 +6,22 @@ This program auto-updates your Youtube's video title
 
 1. To use this program u need two files: client_secret.json and token.json
 2. After obtaining these two files (which will be explained below), move them to the same folder as "youtube_title_updater.py" 
-3. Put your Youtube video's link into the "input_video.txt" file
+3. Put your Youtube video's link into the "input_video.txt" file 
+
+    ![image](https://github.com/user-attachments/assets/974a7602-fae9-4c65-8715-3ea5bad30aa2)
+
 4. Open an IDE and run the "youtube_title_updater.py" file
 5. Check if it works or not!
-6. You can modify the change_video_tile() function to whatever suits your use. Have fun!
+6. You can modify the make_new_tile() function to whatever suits your use. Have fun!
 
+   ![image](https://github.com/user-attachments/assets/fc5b4b5e-242a-4a53-a7a4-8ee4b023ff79)
 
    *P/s: You can schedule your code to be run daily by using task scheduler in Windows or host it on a cloud website (I used PythonAnywhere)*
+
+   ![image](https://github.com/user-attachments/assets/5fddcb7b-4f93-4b4b-9e19-a052d22d1ac2)
+   ![image](https://github.com/user-attachments/assets/799e02c3-ef8c-4b1c-a86e-6649601e3048)
+
+
 
 
 ## How to obtain client_secret.json and token.json
